@@ -26,5 +26,14 @@ Let's say you can't watch the highly anticpated World Cup game between Portugal 
 
 In your Slack channel, enter the following: @wc-bot football/live/2018/jun/15/portugal-v-spain-world-cup-2018-live
 
+## Screenshots
+The Guardian
+
+![alt text](https://raw.githubusercontent.com/santos22/slack-wc/master/screenshots/portugal-v-spain-world-cup-2018-live.png "Guardian screenshot")
+
+Slack
+
+![alt text](https://raw.githubusercontent.com/santos22/slack-wc/master/screenshots/slack-screenshot.png "Slack screenshot")
+
 ## Improvements
 - [ ] Include any media (e.g. photos) as attachments in Slack messages
